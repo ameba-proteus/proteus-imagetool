@@ -1,0 +1,25 @@
+{
+	"name": "proteus-imagetool",
+	"version": "0.0.1",
+	"description": "ERROR: No README.md file found!",
+	"main": "image.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/ameba-proteus/proteus-imagetool"
+	},
+	"keywords": [
+		"image",
+		"proteus"
+	],
+	"dependencies": {
+		"imagemagick": "0.1.x",
+		"commander": "1.1.x",
+		"mkdirp": "0.3.x"
+	},
+	"private": "true",
+	"author": "Suguru Namura",
+	"license": "BSD"
+}
