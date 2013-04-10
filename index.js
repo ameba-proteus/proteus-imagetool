@@ -1,2 +1,2 @@
 
-exports.retina = require('./lib/retina');
+exports.resize = require('./lib/resize');
